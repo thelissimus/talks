@@ -1,0 +1,12 @@
+{
+  "name": "logging",
+  "version": "0.0.1",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "dayjs": "^1.11.6"
+  }
+}
