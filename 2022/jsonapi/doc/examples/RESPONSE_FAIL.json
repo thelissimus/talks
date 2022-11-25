@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "status": 400,
+        "code": "qcvv-102",
+        "type": "error",
+        "message": {
+            "title": "Here goes the title",
+            "details": [
+                "Here goes more detailed explanation of errors",
+                "Some context, some causes and maybe possible solution",
+                "Every element is a paragraph"
+            ],
+            "params": {}
+        }
+    },
+    "data": [],
+    "errors": [
+        {
+            "instance": 325
+        }
+    ]
+}

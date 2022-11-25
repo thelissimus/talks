@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "status": 201,
+        "code": "sscs-1",
+        "type": "user",
+        "message": {
+            "title": "User created successfully",
+            "details": [],
+            "params": {
+                "role": "teacher"
+            }
+        }
+    },
+    "data": [
+        {
+            "id": 42,
+            "username": "bober",
+            "fullname": "Bob Builder",
+            "email": "bob@gmail.com"
+        }
+    ],
+    "errors": []
+}
